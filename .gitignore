@@ -1,1 +1,25 @@
+# Node
+node_modules/
+package-lock.json
 
+# Java
+*.class
+*.jar
+
+# .NET
+bin/
+obj/
+*.user
+
+# Rust
+target/
+Cargo.lock
+
+# C++
+*.exe
+*.o
+*.out
+
+# General
+.DS_Store
+*.log
